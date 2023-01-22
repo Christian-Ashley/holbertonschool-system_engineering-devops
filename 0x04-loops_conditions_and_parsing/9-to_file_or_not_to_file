@@ -16,7 +16,7 @@ f=school
 fi
   if [ -f "$f" ]
   then 
-   echo "school file is regular file"
+   echo "school is regular file"
   else 
    :
 fi
