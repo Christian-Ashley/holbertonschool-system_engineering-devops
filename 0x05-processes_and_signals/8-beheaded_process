@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# there can only be one!!!
+kill "$( pgrep -f "highlander" )"  
