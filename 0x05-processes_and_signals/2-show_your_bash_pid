@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#i am so confused
+grep bash | ps uh
+shellcheck disable=SC2009
